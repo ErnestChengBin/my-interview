@@ -1,2 +1,5 @@
 # my-interview
-A simple html of react to show interview
+npm install
+cd server
+node server.js
+localhost:3000
