@@ -1,5 +1,5 @@
 # my-interview
 npm install<br/>
-cd server
-node server.js
+cd server<br/>
+node server.js<br/>
 localhost:3000
